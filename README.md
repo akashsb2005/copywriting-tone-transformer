@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Automated Copywriting & Tone Transformer
 
 A Python pipeline that generates platform-specific, tone-matched marketing
@@ -22,3 +23,7 @@ python run.py --product "NovaBrew Pro" --platform Instagram --tone Witty \
 # Batch API (50% cheaper, up to 24h)
 python run.py --csv data/sample_products.csv +b
 ```
+=======
+# copywriting-tone-transformer
+Automated Copywriting &amp; Tone Transformer — Generative AI Project 2
+>>>>>>> origin/main
